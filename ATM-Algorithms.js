@@ -8,7 +8,7 @@ function Withdrawal(amount) {
             		console.log(`Your Current Balance ${userBalance}`)
         	} else {
             		console.log(`You have insufficient balance to perform transaction.`)
-        	}
+        	   }
        	} else {
             console.log(`Error Invalid input for transaction.`)
         }
